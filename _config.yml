@@ -2,7 +2,7 @@
 baseurl                      : “/Writer-II-dactl” # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
 url                          :  # the base hostname & protocol for your site
-                                  # `/Writer-II-dactl` - for GitHub
+                                 `/Writer-II-dactl`#  - for GitHub
 
 blog:
   title                      : dactl
