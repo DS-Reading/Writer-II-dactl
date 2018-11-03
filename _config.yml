@@ -1,8 +1,8 @@
 # Base blog settings
-baseurl                      : "/Writer-II-dactl/" # the subpath of your site,                         # e.g. /blog/
+baseurl                      : ‘/Writer-II-dactl/’ # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
-url                          : "" # the base hostname & protocol for your site
-                                  # `` - for GitHub
+url                          :  # the base hostname & protocol for your site
+                                  # `https://github.com/DS-Reading/Writer-II-dactl` - for GitHub
 
 blog:
   title                      : dactl
